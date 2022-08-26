@@ -1,0 +1,17 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal "A temperatura " 4 times.(Ò˜¢Ãúÿÿÿÿ
+Y
+java:S1659">Declare "k" and all following declarations on a separate line.(÷©ØÞøÿÿÿÿ
+r
+java:S1450"PRemove the "f" field and declare it as a local variable in the relevant methods.(÷©ØÞøÿÿÿÿ8¥š Ü­0
+r
+java:S1450"PRemove the "k" field and declare it as a local variable in the relevant methods.(÷©ØÞøÿÿÿÿ8¥š Ü­0
+s
+java:S1450"QRemove the "ra" field and declare it as a local variable in the relevant methods.(÷©ØÞøÿÿÿÿ8ü¿ Ü­0
+s
+java:S1450"QRemove the "re" field and declare it as a local variable in the relevant methods.(÷©ØÞøÿÿÿÿ8ÂÝ Ü­0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ò˜¢Ãúÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(þÓ¦£
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ßÓ†êþÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¢éÈÞýÿÿÿÿ

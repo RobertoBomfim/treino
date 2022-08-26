@@ -5,6 +5,8 @@ public class Livro {
     private String autor;
     private int ano;
 
+    public static int contador = 0;
+
     //Método construtor, quando parâmetro é passadoé obrigatório instanciar objeto com argumentos.
     public Livro(String titulo,String autor, int ano){
         this.titulo = titulo;
@@ -16,6 +18,8 @@ public class Livro {
         System.out.println(this.titulo);
         System.out.println(this.autor);
         System.out.println(this.ano);
+        System.out.println(Livro.contador);
+        System.out.println("----------------------------");
     }
 
     public String getTitulo() {
