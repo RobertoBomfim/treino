@@ -41,3 +41,13 @@ w
 Gsrc/exercicios/dominio/desafiomoduloclassesemetodos/dominio/Comida.java,9\4\94c98a673d1307b8fa0abbb8ec540e04bf403b82
 w
 Gsrc/exercicios/dominio/desafiomoduloclassesemetodos/dominio/Pessoa.java,5\7\5744465a526a30a91b924a8b537e6a8e4aece7dd
+h
+8src/desafios/desafiocomposição/teste/ClienteTeste.java,9\5\953d93672738a5e21e5f3a73adb038e59a5e17e3
+e
+5src/desafios/desafiocomposição/dominio/Produto.java,7\1\71dd42a116fda0f44205e2bf862ea087b65887af
+b
+2src/desafios/desafiocomposição/dominio/Item.java,5\1\5167ac55000ce0db5cb37b7666edadfbe2bc846d
+d
+4src/desafios/desafiocomposição/dominio/Compra.java,f\1\f1edc846665c939364e1279608e0320437e5fab5
+e
+5src/desafios/desafiocomposição/dominio/Cliente.java,e\e\ee345ec9b4ea9dffb35fcd58af97940250454d20
